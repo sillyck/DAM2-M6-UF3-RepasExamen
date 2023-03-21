@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet href=".xsl" type="text/xsl"?> -->
+ 
+<peliculas>
+	<pelicula>
+		<titulo>Spiderman</titulo>
+		<director>Sam Raimi</director>
+		<actores>
+			<actor>Tobey Maguire</actor>
+			<actor>Willem Dafoe</actor>
+			<actor>Kirsten Dunst</actor>
+			<actor>James Franco</actor>
+			<actor>J.K. Simmons</actor>
+			<actor>Rosemary Harris</actor>
+			<actor>Joe Manganiello</actor>
+			<actor>Stan Lee</actor>
+		</actores>
+		<fecha>2002</fecha>
+		<duracion>121</duracion>
+		<generos>
+			<genero>superheroes</genero>
+			<genero>accion</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>
+  
+    <pelicula>
+		<titulo>Spiderman 2</titulo>
+		<director>Sam Raimi</director>
+		<actores>
+			<actor>Tobey Maguire</actor>
+			<actor>Kirsten Dunst</actor>
+			<actor>James Franco</actor>
+			<actor>Alfred Molina</actor>
+		</actores>
+		<fecha>2004</fecha>
+		<duracion>127</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>superheroes</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>
+  
+    <pelicula>
+		<titulo>El sargento de hierro</titulo>
+		<director>Clint Eastwood</director>
+		<actores>
+			<actor>Clint Eastwood</actor>
+			<actor>Mario Van Peebles</actor>
+			<actor>Marsha Mason</actor>
+			<actor>Everett McGill</actor>
+			<actor>Moses Gunn</actor>
+			<actor>Eileen Heckart</actor>
+			<actor>Boyd Gaines</actor>
+		</actores>
+		<fecha>1986</fecha>
+		<duracion>130</duracion>
+		<generos>
+			<genero>belica</genero>
+			<genero>comedia</genero>
+		</generos>
+	</pelicula>  
+
+    <pelicula>
+		<titulo>Spiderman 3</titulo>
+		<director>Sam Raimi</director>
+		<actores>
+			<actor>Tobey Maguire</actor>
+			<actor>Kirsten Dunst</actor>
+			<actor>James Franco</actor>
+			<actor>Thomas Haden Church</actor>
+			<actor>Topher Grace</actor>
+			<actor>J. K. Simmons</actor>
+		</actores>
+		<fecha>2007</fecha>
+		<duracion>139</duracion>
+		<generos>
+			<genero>superheroes</genero>
+			<genero>ciencia ficcion</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula> 
+  
+	<pelicula>
+		<titulo>Hancock</titulo>
+		<director>Peter Berg</director>
+		<actores>
+			<actor>Will Smith</actor>
+			<actor>Charlize Theron</actor>
+			<actor>Jason Bateman</actor>
+		</actores>
+		<fecha>2008</fecha>
+		<duracion>92</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>fantasia</genero>
+		</generos>
+	</pelicula>
+  
+    <pelicula>
+		<titulo>Ip Man</titulo>
+		<director>Wilson Yip</director>
+		<actores>
+			<actor>Donnie Yen</actor>
+			<actor>Simon Yam</actor>
+			<actor>Lynn Hung</actor>
+			<actor>Gordon Lam</actor>
+			<actor>Louis Fan</actor>
+			<actor>Xing Yu</actor>
+		</actores>
+		<fecha>2008</fecha>
+		<duracion>106</duracion>
+		<generos>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+  
+    <pelicula>
+		<titulo>Zodiac</titulo>
+		<director>David Fincher</director>
+		<actores>
+			<actor>Jake Gyllenhaal</actor>
+			<actor>Robert Downey Jr.</actor>
+			<actor>Mark Ruffalo</actor>
+			<actor>Anthony Edwards</actor>
+			<actor>Chloë Sevigny</actor>
+			<actor>Donal Logue</actor>
+			<actor>John Carroll Lynch</actor>
+			<actor>Brian Cox</actor>
+			<actor>Clea DuVall</actor>
+		</actores>
+		<fecha>2007</fecha>
+		<duracion>158</duracion>
+		<generos>
+			<genero>misterio</genero>
+		</generos>
+	</pelicula>
+  
+    <pelicula>
+		<titulo>Solo en casa</titulo>
+		<director>Chris Columbus</director>
+		<actores>
+			<actor>Macaulay Culkin</actor>
+			<actor>Joe Pesci</actor>
+			<actor>Daniel Stern</actor>
+			<actor>John Heard</actor>
+			<actor>Catherine O'Hara</actor>
+			<actor>Roberts Blossom</actor>
+			<actor>John Candy</actor>
+			<actor>Devin Ratray</actor>
+			<actor>Hillary Wolf</actor>
+			<actor>Angela Goethals</actor>
+			<actor>Michael C. Maronna</actor>
+			<actor>Gerry Bamman</actor>
+		</actores>
+		<fecha>1990</fecha>
+		<duracion>104</duracion>
+		<generos>
+			<genero>aventura</genero>
+			<genero>comedia</genero>
+			<genero>familiar</genero>
+		</generos>
+	</pelicula>
+  
+    <pelicula>
+		<titulo>Borat</titulo>
+		<director>Larry Charles</director>
+		<actores>
+			<actor>Sacha Baron Cohen</actor>
+			<actor>Ken Davitian</actor>
+			<actor>Luenell</actor>
+			<actor>Alexandra Paul</actor>
+		</actores>
+		<fecha>2006</fecha>
+		<duracion>84</duracion>
+		<generos>
+			<genero>comedia</genero>
+		</generos>
+	</pelicula>
+  
+    <pelicula>
+		<titulo>Hijos de los hombres</titulo>
+		<director>Alfonso Cuarón</director>
+		<actores>
+			<actor>Clive Owen</actor>
+			<actor>Julianne Moore</actor>
+			<actor>Michael Caine</actor>
+			<actor>Clare-Hope Ashitey</actor>
+			<actor>Chiwetel Ejiofor</actor>
+			<actor>Charlie Hunnam</actor>
+			<actor>Peter Mullan</actor>
+			<actor>Danny Huston</actor>
+			<actor>Pam Ferris</actor>
+		</actores>
+		<fecha>2006</fecha>
+		<duracion>104</duracion>
+		<generos>
+			<genero>ciencia ficcion</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Los increibles</titulo>
+		<director>Brad Bird</director>
+		<actores>
+			<actor>Holly Hunter</actor>
+			<actor>Emma Penella</actor>
+			<actor>Alex de la Iglesia</actor>
+		</actores>
+		<fecha>2004</fecha>
+		<duracion>115</duracion>
+		<generos>
+			<genero>animacion</genero>
+			<genero>accion</genero>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>King Kong</titulo>
+		<director>Peter Jackson</director>
+		<actores>
+			<actor>Naomi Watts</actor>
+			<actor>Jack Black</actor>
+			<actor>Adrien Brody</actor>
+		</actores>
+		<fecha>2005</fecha>
+		<duracion>187</duracion>
+		<generos>
+			<genero>drama</genero>
+			<genero>aventura</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Soy leyenda</titulo>
+		<director>Francis Lawrence</director>
+		<actores>
+			<actor>Will Smith</actor>
+			<actor>Alice Braga</actor>
+			<actor>Emma Thompson</actor>
+		</actores>
+		<fecha>2007</fecha>
+		<duracion>101 </duracion>
+		<generos>
+			<genero>drama</genero>
+			<genero>suspense</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>El caballero oscuro</titulo>
+		<director>Christopher Nolan</director>
+		<actores>
+			<actor>Christian Bale</actor>
+			<actor>Heath Ledger</actor>
+			<actor>Aaron Eckhart</actor>
+		</actores>
+		<fecha>2008</fecha>
+		<duracion>152</duracion>
+		<generos>
+			<genero>misterio</genero>
+			<genero>accion</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>	
+
+	<pelicula>
+		<titulo>Toy story 3</titulo>
+		<director>Lee Unkrich</director>
+		<actores>
+			<actor>Tom Hanks</actor>
+			<actor>Tim Allen</actor>
+			<actor>Joan Cusack</actor>
+		</actores>
+		<fecha>2010</fecha>
+		<duracion>103</duracion>
+		<generos>
+			<genero>aventura</genero>
+			<genero>comedia</genero>
+			<genero>animacion</genero>
+		</generos>
+	</pelicula>	
+
+	<pelicula>
+		<titulo>Titanic</titulo>
+		<director>James Cameron</director>
+		<actores>
+			<actor>Leonardo DiCaprio</actor>
+			<actor>Billy Zane</actor>
+			<actor>Kate Winslet</actor>
+		</actores>
+		<fecha>2012</fecha>
+		<duracion>194</duracion>
+		<generos>
+			<genero>drama</genero>
+			<genero>romantica</genero>
+		</generos>
+	</pelicula>	
+
+	<pelicula>
+		<titulo>Avatar</titulo>
+		<director>James Cameron</director>
+		<actores>
+			<actor>Sam Worthington</actor>
+			<actor>Zoe Saldana</actor>
+			<actor>Sigourney Weaver</actor>
+		</actores>
+		<fecha>2009</fecha>
+		<duracion>150</duracion>
+		<generos>
+			<genero>aventura</genero>
+			<genero>accion</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>	
+
+	<pelicula>
+		<titulo>El pianista</titulo>
+		<director>Roman Polanski</director>
+		<actores>
+			<actor>Adrien Brody</actor>
+			<actor>Emilia Fox</actor>
+			<actor>Ed Stoppard</actor>
+		</actores>
+		<fecha>2002</fecha>
+		<duracion>150</duracion>
+		<generos>
+			<genero>drama</genero>
+			<genero>biografia</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>	
+
+	<pelicula>
+		<titulo>Alien: el octavo pasajero</titulo>
+		<director>Ridley Scott</director>
+		<actores>
+			<actor>Tom Skerritt</actor>
+			<actor>Sigourney Weave</actor>
+			<actor>John Hurt</actor>
+			<actor>Ian Holm</actor>
+			<actor>Veronica Cartwright</actor>
+			<actor>Yaphet Kotto</actor>
+			<actor>Harry Dean Stanton</actor>
+		</actores>
+		<duracion>117</duracion>
+		<generos>
+			<genero>terror</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+		<fecha>1979</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Final fantasy: La fuerza interior</titulo>
+		<director>Hironobu Sakaguchi</director>
+		<actores>
+			<actor>Ming-Na</actor>
+			<actor>Alec Baldwin</actor>
+			<actor>Ving Rhames</actor>
+			<actor>Donald Sutherland</actor>
+			<actor>James Woods</actor>
+			<actor>Steve Buscemi</actor>
+			<actor>Peri Gilpin</actor>
+		</actores>
+		<duracion>106</duracion>
+		<generos>
+			<genero>ciencia ficcion</genero>
+			<genero>fantasia</genero>
+			<genero>accion</genero>
+		</generos>
+		<fecha>2001</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Yo, robot</titulo>
+		<director>Alex Proyas</director>
+		<actores>
+			<actor>Will Smith</actor>
+			<actor>Bridget Moynahan</actor>
+			<actor>Alan Tudyk</actor>
+			<actor>James Cromwell</actor>
+			<actor>Bruce Greenwood</actor>
+			<actor>Adrian Ricard</actor>
+			<actor>Chi McBride</actor>
+			<actor>Jerry Wasserman</actor>
+			<actor>Shia LaBeouf</actor>
+			<actor>Fiona Hogan</actor>
+		</actores>
+		<duracion>115</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>ciencia ficcion</genero>
+			<genero>suspense</genero>
+		</generos>
+		<fecha>2004</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Valerian y la ciudad de los mil planetas</titulo>
+		<director>Luc Besson</director>
+		<actores>
+			<actor>Dane DeHaan</actor>
+			<actor>Cara Delevingne</actor>
+			<actor>Clive Owen</actor>
+			<actor>Ethan Hawke</actor>
+			<actor>Rihanna</actor>
+		</actores>
+		<duracion>137</duracion>
+		<generos>
+			<genero>ciencia ficcion</genero>
+		</generos>
+		<fecha>2017</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Los guardianes de la galaxia</titulo>
+		<director>James Gunn</director>
+		<actores>
+			<actor>Chriss Pratt</actor>
+			<actor>Zoe Saldana</actor>
+			<actor>Bradley Cooper</actor>
+			<actor>Dave Bautista</actor>
+			<actor>Vin Diesel</actor>
+			<actor>Michael Rooker</actor>
+			<actor>Karen Gillan</actor>
+			<actor>Jhon C. Reilly</actor>
+			<actor>Glenn Close</actor>
+			<actor>Lee Pace</actor>
+			<actor>Benicio del Toro</actor>
+		</actores>
+		<duracion>122</duracion>
+		<generos>
+			<genero>superheroes</genero>
+			<genero>ciencia ficcion</genero>
+			<genero>accion</genero>
+			<genero>comedia</genero>
+		</generos>
+		<fecha>2014</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Blade runner</titulo>
+		<director>Ridley Scott</director>
+		<actores>
+			<actor>Harrison Ford</actor>
+			<actor>Rutger Hauer</actor>
+			<actor>Sean Young</actor>
+			<actor>Edward James Olmos</actor>
+			<actor>Daryl Hannah</actor>
+		</actores>
+		<duracion>117</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>drama</genero>
+			<genero>ciencia ficcion</genero>
+			<genero>suspense</genero>
+		</generos>
+		<fecha>1982</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Descifrando enigma</titulo>
+		<director>Morten Tyldum</director>
+		<actores>
+			<actor>Benedict Cumberbatch</actor>
+			<actor>Keira Knightley</actor>
+			<actor>Matthew Goode</actor>
+			<actor>Mark Strong</actor>
+			<actor>Charles Dance</actor>
+			<actor>Allen Leech</actor>
+			<actor>Matthew Beard</actor>
+			<actor>Rory Kinnear</actor>
+		</actores>
+		<duracion>113</duracion>
+		<generos>
+			<genero>drama</genero>
+			<genero>suspense</genero>
+			<genero>belica</genero>
+		</generos>
+		<fecha>2014</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Ace Ventura, operacion Africa</titulo>
+		<director>Steve Oedekerk</director>
+		<actores>
+			<actor>Jim Carrey</actor>
+			<actor>Ian McNeice</actor>
+			<actor>Simon Callow</actor>
+		</actores>
+		<duracion>90</duracion>
+		<generos>
+			<genero>comedia</genero>
+		</generos>
+		<fecha>1995</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Siete Almas</titulo>
+		<director>Gabriele Muccino</director>
+		<actores>
+			<actor>Will Smith</actor>
+			<actor>Woody Harrelson</actor>
+			<actor>Barry Pepper</actor>
+			<actor>Michael Ealy</actor>
+		</actores>
+		<duracion>123</duracion>
+		<generos>
+			<genero>drama</genero>
+		</generos>
+		<fecha>2008</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Battle royale</titulo>
+		<director>Kinji Fukasaku</director>
+		<actores>
+			<actor>Tatsuya Fujiwara</actor>
+			<actor>Aki Maeda</actor>
+			<actor>Taro Yamamoto</actor>
+			<actor>Masanobu Ando</actor>
+			<actor>Kou Shibasaki</actor>
+			<actor>Chiaki Kuriyama</actor>
+			<actor>Takeshi Kitano</actor>
+		</actores>
+		<duracion>122</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>ciencia ficcion</genero>
+			<genero>drama</genero>
+		</generos>
+		<fecha>2000</fecha>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Transcendence</titulo>
+		<director>Wally Pfister</director>
+		<actores>
+			<actor>Johnny Depp</actor>
+			<actor>Kate Mara</actor>
+			<actor>Morgan Freeman</actor>
+			<actor>Rebecca Hall</actor>
+			<actor>Cillian Murphy</actor>
+			<actor>Paul Bettany</actor>
+			<actor>Clifton Collins Jr.</actor>
+		</actores>
+		<fecha>2014</fecha>
+		<duracion>110</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>drama</genero>
+			<genero>fantasia</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Las tortugas ninja</titulo>
+		<director>Jonathan Liebesman</director>
+		<actores>
+			<actor>Megan Fox</actor>
+			<actor>William Fichtner</actor>
+			<actor>Will Arnett</actor>
+			<actor>Whoopi Goldberg</actor>
+			<actor>Noel Fisher</actor>
+			<actor>Alan Ritchson</actor>
+			<actor>Jeremy Howard</actor>
+			<actor>Pete Ploszek</actor>
+		</actores>
+		<fecha>2014</fecha>
+		<duracion>110</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>aventura</genero>
+			<genero>comedia</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Resident evil: Ultratumba</titulo>
+		<director>Paul W. S. Anderson</director>
+		<actores>
+			<actor>Milla Jovovich</actor>
+			<actor>Ali Larter</actor>
+			<actor>Kim Coates</actor>
+			<actor>Sergio Peris-Mencheta</actor>
+			<actor>Wentworth Miller</actor>
+			<actor>Spencer Locke</actor>
+			<actor>Shawn Roberts</actor>
+		</actores>
+		<fecha>2010</fecha>
+		<duracion>96</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>fantasia</genero>
+			<genero>terror</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Prometheus</titulo>
+		<director>Ridley Scott</director>
+		<actores>
+			<actor>Michael Fassbender</actor>
+			<actor>Noomi Rapace </actor>
+			<actor>Charlize Theron</actor>
+			<actor>Guy Pearce</actor>
+			<actor>Patrick Wilson</actor>
+			<actor>Idris Elba</actor>
+		</actores>
+		<fecha>2012</fecha>
+		<duracion>123</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>ciencia ficcion</genero>
+			<genero>terror</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Amityville: El despertar</titulo>
+		<director>Franck Khalfoun</director>
+		<actores>
+			<actor>Bella Thorne</actor>
+			<actor>Cameron Monaghan</actor>
+			<actor>Mckenna Grace</actor>
+			<actor>Jennifer Jason Leigh</actor>
+			<actor>Jennifer Morrison</actor>
+			<actor>Judd Hirsch</actor>
+		</actores>
+		<fecha>2017</fecha>
+		<duracion>85</duracion>
+		<generos>
+			<genero>terror</genero>
+			<genero>suspense</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Independence day: Contraataque</titulo>
+		<director>Roland Emmerich</director>
+		<actores>
+			<actor>Liam Hemsworth</actor>
+			<actor>Jeff Goldblum</actor>
+			<actor>Charlotte Gainsbourg</actor>
+			<actor>Vivica A. Fox</actor>
+			<actor>Bill Pullman</actor>
+			<actor>Judd Hirsch</actor>
+			<actor>Maika Monroe</actor>
+		</actores>
+		<fecha>2016</fecha>
+		<duracion>119</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>El ultimo rey</titulo>
+		<director>Nils Gaup</director>
+		<actores>
+			<actor>Jakob Oftebro</actor>
+			<actor>Nikolaj Lie Kaas</actor>
+			<actor>Thorbjørn Harr</actor>
+			<actor>Kristofer Hivju</actor>
+			<actor>Pal Sverre Hagen</actor>
+		</actores>
+		<fecha>2016</fecha>
+		<duracion>95</duracion>
+		<generos>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>El extranjero</titulo>
+		<director>Martin Campbell</director>
+		<actores>
+			<actor>Jackie Chan</actor>
+			<actor>Katie Leung</actor>
+			<actor>Pierce Brosnani</actor>
+			<actor>Charlie Murphy</actor>
+			<actor>Michael McElhatton</actor>
+		</actores>
+		<fecha>2017</fecha>
+		<duracion>120</duracion>
+		<generos>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>6 dias</titulo>
+		<director>Toa Fraser</director>
+		<actores>
+			<actor>Mark Strong</actor>
+			<actor>Jamie Bell</actor>
+			<actor>Abbie Cornish</actor>
+			<actor>Martin Shaw</actor>
+			<actor>John Henshaw</actor>
+			<actor>Jared Turner</actor>
+			<actor>Emun Elliott</actor>
+		</actores>
+		<fecha>2017</fecha>
+		<duracion>94</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>La espada del inmortal</titulo>
+		<director>Takashi Miike</director>
+		<actores>
+			<actor>Takuya Kimura</actor>
+			<actor>Hana Sugisaki</actor>
+			<actor>Sota Fukushi</actor>
+			<actor>Erika Toda</actor>
+			<actor>Chiaki Kuriyama</actor>
+			<actor>Kazuki Kitamura</actor>
+		</actores>
+		<fecha>2017</fecha>
+		<duracion>140</duracion>
+		<generos>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>Bright</titulo>
+		<director>David Ayer</director>
+	
+		<actores>
+			<actor>Will Smith</actor>
+			<actor>Joel Edgerton</actor>
+			<actor>Noomi Rapace</actor>
+			<actor>Lucy Fry</actor>
+			<actor>Edgar Ramirez</actor>
+			<actor>Ike Barinholtz</actor>
+		</actores>
+		
+		<fecha>2017</fecha>
+		<duracion>117</duracion>
+		
+		<generos>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>La vida es bella</titulo>
+		<director>Roberto Benigni</director>
+	
+		<actores>
+			<actor>Roberto Benigni</actor>
+			<actor>Nicoletta Braschi </actor>
+			<actor>Giorgio Cantarini</actor>
+		</actores>
+		
+		<fecha>1997</fecha>
+		<duracion>116</duracion>
+		
+		<generos>
+			<genero>comedia</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Los vengadores</titulo>
+		<director>Joss Whedon</director>
+	
+		<actores>
+			<actor>Tom Hiddleston</actor>
+			<actor>Robert Downey Jr.</actor>
+			<actor>Chris Hemsworth</actor>
+			<actor>Mark Ruffalo</actor>
+			<actor>Chris Evans</actor>
+			<actor>Scarlett Johansson</actor>
+			<actor>Jeremy Renner</actor>
+			<actor>Clark Gregg</actor>
+			<actor>Stellan Skarsgard</actor>
+			<actor>Cobie Smulders</actor>
+			<actor>Samuel L. Jackson</actor>
+		</actores>
+		
+		<fecha>2012</fecha>
+		<duracion>143</duracion>
+		
+		<generos>
+			<genero>accion</genero>
+			<genero>aventura</genero>
+			<genero>ciencia ficcion</genero>
+			<genero>superheroes</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Dunkerque</titulo>
+		<director>Emma Thomas</director>
+	
+		<actores>
+			<actor>Fionn Whitehead</actor>
+			<actor>Tom Glynn-Carney</actor>
+			<actor>Jack Lowden</actor>
+			<actor>Harry Styles</actor>
+			<actor>Aneurin Barnard</actor>
+			<actor>James D'Arcy</actor>
+			<actor>Barry Keoghan</actor>
+			<actor>Kenneth Branagh</actor>
+			<actor>Cillian Murphy</actor>
+			<actor>Mark Rylance</actor>
+			<actor>Tom Hardy</actor>
+		</actores>
+		
+		<fecha>2017</fecha>
+		<duracion>106</duracion>
+		
+		<generos>
+			<genero>belica</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>El ultimo mohicano</titulo>
+		<director>Michael Mann</director>
+	
+		<actores>
+			<actor>Daniel Day-Lewis</actor>
+			<actor>Madeleine Stowe</actor>
+			<actor>Jodhi May</actor>
+			<actor>Steven Waddington</actor>
+			<actor>Russell Means</actor>
+			<actor>Eric Schweig</actor>
+			<actor>Patrice Chereau</actor>
+			<actor>Pete Postlethwaite</actor>
+		</actores>
+		
+		<fecha>1992</fecha>
+		<duracion>117</duracion>
+		
+		<generos>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Kubo y las dos cuerdas magicas</titulo>
+		<director>Travis Knight</director>
+	
+		<actores>
+			<actor>Charlize Theron</actor>
+			<actor>Art Parkinson</actor>
+			<actor>Ralph Fiennes</actor>
+			<actor>Rooney Mara</actor>
+			<actor>George Takei</actor>
+			<actor>Matthew McConaughey</actor>
+		</actores>
+		
+		<fecha>2016</fecha>
+		<duracion>102</duracion>
+		
+		<generos>
+			<genero>animacion</genero>
+			<genero>fantasia</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Johnny English</titulo>
+		<director>Peter Howitt</director>
+	
+		<actores>
+			<actor>Rowan Atkinson</actor>
+			<actor>Natalie Imbruglia</actor>
+			<actor>Ben Miller</actor>
+			<actor>John Malkovich</actor>
+		</actores>
+		
+		<fecha>2003</fecha>
+		<duracion>88</duracion>
+		
+		<generos>
+			<genero>accion</genero>
+			<genero>comedia</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Baby Driver</titulo>
+		<director>Edgar Wright</director>
+	
+		<actores>
+			<actor>Ansel Elgort</actor>
+			<actor>Kevin Spacey</actor>
+			<actor>Lily James</actor>
+			<actor>Eiza González</actor>
+			<actor>Jon Hamm</actor>
+			<actor>Jamie Foxx</actor>
+			<actor>Jon Bernthal</actor>
+		</actores>
+		
+		<fecha>2017</fecha>
+		<duracion>113</duracion>
+		
+		<generos>
+			<genero>accion</genero>
+			<genero>comedia</genero>
+			<genero>policiaca</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Triple 9</titulo>
+		<director>Keith Redmon</director>
+	
+		<actores>
+			<actor>Casey Affleck</actor>
+			<actor>Chiwetel Ejiofor</actor>
+			<actor>Anthony Mackie</actor>
+			<actor>Aaron Paul</actor>
+			<actor>Clifton Collins Jr.</actor>
+			<actor>Norman Reedus</actor>
+			<actor>Teresa Palmer</actor>
+			<actor>Michael K. Williams</actor>
+			<actor>Gal Gadot</actor>
+			<actor>Woody Harrelson</actor>
+			<actor>Kate Winslet</actor>
+		</actores>
+		
+		<fecha>2016</fecha>
+		<duracion>115</duracion>
+		
+		<generos>
+			<genero>policiaca</genero>
+			<genero>suspense</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Mad Max: Furia en la carretera</titulo>
+		<director>George Miller</director>
+	
+		<actores>
+			<actor>Tom Hardy</actor>
+			<actor>Charlize Theron</actor>
+			<actor>Nicholas Hoult</actor>
+			<actor>Hugh Keays-Byrne</actor>
+
+		</actores>
+		
+		<fecha>2015</fecha>
+		<duracion>120</duracion>
+		
+		<generos>
+			<genero>accion</genero>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+
+	<pelicula>
+		<titulo>El señor de los anillos: El retorno del rey</titulo>
+		<director>Peter Jackson</director>
+		<actores>
+			<actor>Vigo Mortensen</actor>
+			<actor>Elijah Wood</actor>
+			<actor>Ian McKellen</actor>
+			<actor>Orlando Bloom</actor>
+			<actor>Hugo Weaving</actor>
+		</actores>
+		<fecha>2003</fecha>
+		<duracion>200</duracion>
+		<generos>
+			<genero>aventura</genero>
+			<genero>fantasia</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>El hobbit: La batalla de los cinco ejercitos</titulo>
+		<director>Peter Jackson</director>
+		<actores>
+			<actor>Ian McKellen</actor>
+			<actor>Martin Freeman</actor>
+			<actor>Richard Armitage</actor>
+			<actor>Evangeline Lilly</actor>
+			<actor>Aidan Turner</actor>
+		</actores>
+		<fecha>2014</fecha>
+		<duracion>144</duracion>
+		<generos>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Logan</titulo>
+		<director>James Mangold</director>
+		<actores>
+			<actor>Hugh Jackman</actor>
+			<actor>Patrick Stewart</actor>
+			<actor>Boyd Holbrook</actor>
+			<actor>Dafne Keen</actor>
+			<actor>Stephen Merchant</actor>
+		</actores>
+		<fecha>2017</fecha>
+		<duracion>137</duracion>
+		<generos>
+			<genero>superheroes</genero>
+			<genero>accion</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Deadpool</titulo>
+		<director>Tim Miller</director>
+		<actores>
+			<actor>Ryan Reynolds</actor>
+			<actor>Morena Baccarin</actor>
+			<actor>Ed Skrein</actor>
+			<actor>Gina Carano</actor>
+			<actor>T.J.Miller</actor>
+		</actores>
+		<fecha>2016</fecha>
+		<duracion>109</duracion>
+		<generos>
+			<genero>superheroes</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>El diario de los muertos</titulo>
+		<director>George A. Romero</director>
+		<actores>
+			<actor>Michelle Morgan</actor>
+			<actor>Josh Close</actor>
+			<actor>Joe Dinicol</actor>
+			<actor>Shawn Roberts</actor>
+			<actor>Shawn Roberts</actor>
+		</actores>
+		<fecha>2008</fecha>
+		<duracion>95</duracion>
+		<generos>
+			<genero>terror</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>El proyecto de la bruja de Blair</titulo>
+		<director>Eduardo Sánchez</director>
+		<actores>
+			<actor>Heather Donahue</actor>
+			<actor>Joshua Leonard</actor>
+			<actor>Michael C Williams</actor>actor>
+		</actores>
+		<fecha>1999</fecha>
+		<duracion>86</duracion>
+		<generos>
+			<genero>terror</genero>
+			<genero>documental</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Depredador</titulo>
+		<director>John McTiernan</director>
+		<actores>
+			<actor>Arnold Schwarzenegger</actor>
+			<actor>Carl Weathers</actor>
+			<actor>Jesse Ventura</actor>
+			<actor>Richard Chaves</actor>
+			<actor>Kevin Peter Hall</actor>
+		</actores>
+		<fecha>1987</fecha>
+		<duracion>95</duracion>
+		<generos>
+			<genero>accion</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Interestellar</titulo>
+		<director>Christopher Nolan</director>
+		<actores>
+			<actor>Matthew McConaughey</actor>
+			<actor>Anne Hathaway</actor>
+			<actor>Jessica Chastain</actor>
+			<actor>Bill Irwin</actor>
+			<actor>Matt Damon</actor>
+		</actores>
+		<fecha>2014</fecha>
+		<duracion>169</duracion>
+		<generos>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Salvar al soldado Ryan</titulo>
+		<director>Steven Spielberg</director>
+		<actores>
+			<actor>Tom Hanks</actor>
+			<actor>Edward Burns</actor>
+			<actor>Tom Sizemore</actor>
+			<actor>Matt Damon</actor>
+			<actor>Vin Diesel</actor>
+		</actores>
+		<fecha>1998</fecha>
+		<duracion>169</duracion>
+		<generos>
+			<genero>belica</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Soldado universal</titulo>
+		<director>Roland Emmerich</director>
+		<actores>
+			<actor>Jean Claude Van Damme</actor>
+			<actor>Dolph Lundgren</actor>
+			<actor>Ally Walker</actor>
+			<actor>Ed ORoss</actor>
+			<actor>Jerry Orbach</actor>
+		</actores>
+		<fecha>1992</fecha>
+		<duracion>102</duracion>
+		<generos>
+			<genero>ciencia ficcion</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Star Wars: Episodio II - El ataque de los Clones</titulo>
+		<director>George Lucas</director>
+		<actores>
+			<actor>Ewan McGregor</actor>
+			<actor>Harrisson Ford</actor>
+			<actor>Hayden Christensen</actor>
+			<actor>Christopher Lee</actor>
+		</actores>
+		<fecha>2002</fecha>
+		<duracion>120</duracion>
+		<generos>
+			<genero>ciencia ficcion</genero>
+			<genero>aventura</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Star Wars: Episodio I - La amenaza fantasma</titulo>
+		<director>George Lucas</director>
+		<actores>
+			<actor>Ewan McGregor</actor>
+			<actor>Natalie Portman</actor>
+			<actor>Liam Neeson</actor>
+			<actor>Ian McDiarmid</actor>
+		</actores>
+		<fecha>1999</fecha>
+		<duracion>133</duracion>
+		<generos>
+			<genero>ciencia ficcion</genero>
+			<genero>aventura</genero>
+			<genero>fantasia</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Ocho apellidos vascos</titulo>
+		<director>Emilio Martinez-Lazaro</director>
+		<actores>
+			<actor>Clara Lago</actor>
+			<actor>Dani Rovira</actor>
+			<actor>Carmen Machi</actor>
+			<actor>Karra Elejalde</actor>
+		</actores>
+		<fecha>2014</fecha>
+		<duracion>98</duracion>
+		<generos>
+			<genero>comedia</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Ahora o nunca</titulo>
+		<director>Maria Ripoll Julia</director>
+		<actores>
+			<actor>Dani Rovira</actor>
+			<actor>Clara Lago</actor>
+			<actor>Victor Sevilla</actor>
+			<actor>Alicia Rubio</actor>
+		</actores>
+		<fecha>2015</fecha>
+		<duracion>86</duracion>
+		<generos>
+			<genero>comedia</genero>
+			<genero>romantica</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Los vengadores: La era de Ultrón</titulo>
+		<director>Joss Whedon</director>
+		<actores>
+			<actor>Robert Downey Jr</actor>
+			<actor>Chis Evans</actor>
+			<actor>Mark Ruffalo</actor>
+			<actor>Scarlett Johansson</actor>
+		</actores>
+		<fecha>2015</fecha>
+		<duracion>142</duracion>
+		<generos>
+			<genero>superheroes</genero>
+			<genero>accion</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>El barbero diabolico de la calle Fleet</titulo>
+		<director>Tim Burton</director>
+		<actores>
+			<actor>Johnny Deep</actor>
+			<actor>Alan Rickman</actor>
+			<actor>Timothy Spall</actor>
+			<actor>Helena Bonham Carter</actor>
+		</actores>
+		<fecha>2007</fecha>
+		<duracion>117</duracion>
+		<generos>
+			<genero>suspense</genero>
+			<genero>musical</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Charlie i la fabrica de chocolate</titulo>
+		<director>Tim Burton</director>
+		<actores>
+			<actor>Jonny Deep</actor>
+			<actor>Freddie Highmore</actor>
+			<actor>Chistopher Lee</actor>
+			<actor>Helena Bonham Carter</actor>
+		</actores>
+		<fecha>2005</fecha>
+		<duracion>115</duracion>
+		<generos>
+			<genero>fantasia</genero>
+			<genero>comedia</genero>
+			<genero>familiar</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Corazones de acero</titulo>
+		<director>David Ayer</director>
+		<actores>
+			<actor>Brad Pitt</actor>
+			<actor>Michael Peña</actor>
+			<actor>Jon Berthal</actor>
+			<actor>Logan Lerman</actor>
+		</actores>
+		<fecha>2014</fecha>
+		<duracion>134</duracion>
+		<generos>
+			<genero>belica</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Fast and Furious 6</titulo>
+		<director>Justin Lin</director>
+		<actores>
+			<actor>Vin Diesel</actor>
+			<actor>Paul Walker</actor>
+			<actor>Michelle Rodriguez</actor>
+			<actor>Jordana Brewster</actor>
+		</actores>
+		<fecha>2013</fecha>
+		<duracion>130</duracion>
+		<generos>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>xXx</titulo>
+		<director>Rob Cohen</director>
+		<actores>
+			<actor>Vin Diesel</actor>
+			<actor>Asia Argento</actor>
+			<actor>Marton Csokas</actor>
+			<actor>Samuel L. Jackson</actor>
+		</actores>
+		<fecha>2002</fecha>
+		<duracion>124</duracion>
+		<generos>
+			<genero>aventura</genero>
+			<genero>accion</genero>
+		</generos>
+	</pelicula>
+    
+    <pelicula>
+        <titulo>Forrest Gump</titulo>
+        <director>Robert Zemeckis</director>
+        <actores>
+			<actor>Tom Hanks</actor>
+			<actor>Gary Sinise</actor>
+        </actores>
+        <fecha>1994</fecha>
+        <duracion>140</duracion>
+        <generos>
+			<genero>comedia</genero>
+			<genero>romantica</genero>
+        </generos>
+    </pelicula>
+    
+    <pelicula>
+		<titulo>Intocable</titulo>
+        <director>Eric Toledano</director>
+        <actores>
+			<actor>Frencois Cluzet</actor>
+			<actor>Omar Sy</actor>
+        </actores>
+        <fecha>2012</fecha>
+        <duracion>112</duracion>
+        <generos>
+			<genero>comedia</genero>
+        </generos>
+    </pelicula>
+    
+    <pelicula>
+		<titulo>Pulp fiction</titulo>
+        <director>Quentin Tarantino</director>
+        <actores>
+			<actor>John Travolta</actor>
+			<actor>Samuel Jackson</actor>
+        </actores>
+        <fecha>2017</fecha>
+        <duracion>149</duracion>
+        <generos>
+			<genero>crimen</genero>
+			<genero>suspense</genero>
+        </generos>
+    </pelicula>
+    
+    <pelicula>
+		<titulo>El rey leon</titulo>
+        <director>Roger Allers</director>
+        <actores>
+			<actor>Matthew Broderick</actor>
+			<actor>Jonathan Taylor</actor>
+        </actores>
+        <fecha>2011</fecha>
+        <duracion>89</duracion>
+        <generos>
+			<genero>animacion</genero>
+			<genero>aventura</genero>
+        </generos>
+    </pelicula>
+    
+    <pelicula>
+		<titulo>El señor de los anillos: La comunidad del anillo</titulo>
+        <director>Peter Jackson</director>
+        <actores>
+			<actor>Elijah Wood</actor>
+			<actor>Sean Astin</actor>
+        </actores>
+        <fecha>2001</fecha>
+        <duracion>165</duracion>
+        <generos>
+			<genero>fantasia</genero>
+			<genero>aventura</genero>
+			<genero>accion</genero>
+        </generos>
+    </pelicula>
+    
+    <pelicula>
+		<titulo>Gladiator</titulo>
+        <director>Ridley Scott</director>
+        <actores>
+			<actor>Rusell Crowe</actor>
+			<actor>Joaquin Phoenix</actor>
+        </actores>
+        <fecha>2000</fecha>
+        <duracion>155</duracion>
+        <generos>
+			<genero>aventura</genero>
+			<genero>accion</genero>
+			<genero>drama</genero>
+        </generos>
+    </pelicula>
+    
+    <pelicula>
+		<titulo>Plan de escape</titulo>
+		<director>Mikael Håfström</director>
+		<actores>
+				<actor>Sylvester Stallone</actor>
+				<actor>Arnold Schwarzenegger</actor>
+				<actor>Jim Caviezel</actor>
+			</actores>
+			<fecha>2013</fecha>
+			<duracion>116</duracion>
+			<generos>
+				<genero>accion</genero>
+				<genero>suspense</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>Que fue de Brad</titulo>
+			<director>Mike White</director>
+			<actores>
+				<actor>Ben Stiller</actor>
+				<actor>Austin Abrams</actor>
+				<actor>Jenna Fischer</actor>
+			</actores>
+			<duracion>101</duracion>
+			<fecha>2017</fecha>
+			<generos>
+				<genero>comedia</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+		<titulo>El padrino</titulo>
+		<director>Francis Ford Coppola</director>
+		<actores>
+				<actor>Marlon Brando</actor>
+				<actor>Al Pacino</actor>
+				<actor>James Caan</actor>
+		</actores>
+		<fecha>1972</fecha>
+		<duracion>175</duracion>
+		<generos>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>Doce hombres sin piedad</titulo>
+			<director>Sidney Lumet</director>
+			<actores>
+				<actor>Henry Fonda</actor>
+				<actor>Lee J. Cobb</actor>
+				<actor>Jack Warden</actor>
+			</actores>
+			<fecha>1957</fecha>
+			<duracion>95</duracion>
+			<generos>
+				<genero>drama</genero>
+				<genero>suspense</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>Testigo de cargo</titulo>
+			<director>Billy Wilder</director>
+			<actores>
+				<actor>Tyrone Power</actor>
+				<actor>Marlene Dietrich</actor>
+				<actor>Charles Laughton</actor>
+			</actores>
+			<fecha>1957</fecha>
+			<duracion>114</duracion>
+			<generos>
+				<genero>drama</genero>
+				<genero>suspense</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>La lista de Schindler</titulo>
+			<director>Steven Spielberg</director>
+			<actores>
+				<actor>Liam Neeson</actor>
+				<actor>Ben Kingsley</actor>
+				<actor>Ralph Fiennes</actor>
+			</actores>
+			<fecha>1993</fecha>
+			<duracion>195</duracion>
+			<generos>
+				<genero>historica</genero>
+				<genero>drama</genero>
+				<genero>belica</genero>
+				<genero>biografia</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>Cadena perpetua</titulo>
+			<director>Frank Darabont</director>
+			<actores>
+				<actor>Tim Robbins</actor>
+				<actor>Morgan Freeman</actor>
+				<actor>Bob Gunton</actor>
+			</actores>
+			<fecha>1994</fecha>
+			<duracion>142</duracion>
+			<generos>
+				<genero>drama</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>El golpe</titulo>
+			<director>George Roy Hill</director>
+			<actores>
+				<actor>Robert Redford</actor>
+				<actor>Paul Newman</actor>
+				<actor>Robert Shaw</actor>
+			</actores>
+			<fecha>1973</fecha>
+			<duracion>129</duracion>
+			<generos>
+				<genero>drama</genero>
+				<genero>comedia</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>El apartamento</titulo>
+			<director>George Roy Hill</director>
+			<actores>
+				<actor>Jack Lemmon</actor>
+				<actor>Shirley MacLaine</actor>
+				<actor>Fred MacMurray</actor>
+			</actores>
+			<fecha>1960</fecha>
+			<duracion>125</duracion>
+			<generos>
+				<genero>drama</genero>
+				<genero>comedia</genero>
+			</generos>
+	</pelicula>
+		
+	<pelicula>
+			<titulo>La evasion</titulo>
+			<director>Jacques Becker</director>
+			<actores>
+				<actor>Philippe Leroy</actor>
+				<actor>Marc Michel</actor>
+				<actor>Michel Constantin</actor>
+			</actores>
+			<fecha>1961</fecha>
+			<duracion>113</duracion>
+			<generos>
+				<genero>drama</genero>
+			</generos>
+	</pelicula>	
+
+	<pelicula>
+		<titulo>La cara oculta</titulo>
+		<director>Andres Baiz</director>
+		<actores>
+			<actor>Martina Garcia</actor>
+			<actor>Clara Lago</actor>
+			<actor>Joaquim Gutierrez i Ylla</actor>
+		</actores>
+		<fecha>2011</fecha>
+		<duracion>92</duracion>
+		<generos>
+			<genero>terror</genero>
+			<genero>misterio</genero>
+			<genero>suspense</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Tu nombre</titulo>
+		<director>Makoto Shinkai</director>
+		<actores>
+		</actores>
+		<fecha>2016</fecha>
+		<duracion>107</duracion>
+		<generos>
+			<genero>animacion</genero>
+			<genero>romantica</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>The conjuring: Expediente Warren</titulo>
+		<director>James Wan</director>
+		<actores>
+			<actor>Patrick Winson</actor>
+			<actor>Vera Farmiga</actor>
+		</actores>
+		<fecha>2013</fecha>
+		<duracion>112</duracion>
+		<generos>
+			<genero>terror</genero>
+			<genero>misterio</genero>
+			<genero>suspense</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>La cura del bienestar</titulo>
+		<director>Gore Verbinski</director>
+		<actores>
+			<actor>Dane DeHaan</actor>
+			<actor>Jason Isaacs</actor>
+			<actor>Mia Goth</actor>
+		</actores>
+		<fecha>2017</fecha>
+		<duracion>146</duracion>
+		<generos>
+			<genero>terror</genero>
+			<genero>suspense</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>La momia</titulo>
+		<director>Alex Kurtzman</director>
+		<actores>
+			<actor>Tom Cruise</actor>
+			<actor>Sofia Boutella</actor>
+		</actores>
+		<fecha>2017</fecha>
+		<duracion>110</duracion>
+		<generos>
+			<genero>historica</genero>
+			<genero>accion</genero>
+			<genero>suspense</genero>
+			<genero>belica</genero>
+			<genero>ciencia ficcion</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Saw</titulo>
+		<director>James Wan</director>
+		<actores>
+			<actor>Leigh Whannell</actor>
+			<actor>Tobin Bell</actor>
+			<actor>Cary Elwes</actor>
+		</actores>
+		<fecha>2004</fecha>
+		<duracion>103</duracion>
+		<generos>
+			<genero>terror</genero>
+			<genero>suspense</genero>
+			<genero>policiaca</genero>
+			<genero>adulto</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>El viaje de Chihiro</titulo>
+		<director>Hayao Miyazaki</director>
+		<actores>
+		</actores>
+		<fecha>2001</fecha>
+		<duracion>140</duracion>
+		<generos>
+			<genero>animacion</genero>
+			<genero>suspense</genero>
+			<genero>fantasia</genero>
+			<genero>drama</genero>
+			<genero>aventura</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>CardCaptor Sakura: La pelicula</titulo>
+		<director>Morio Asaka</director>
+		<actores>
+		</actores>
+		<fecha>1999</fecha>
+		<duracion>86</duracion>
+		<generos>
+			<genero>fantasia</genero>
+			<genero>animacion</genero>
+			<genero>aventura</genero>
+			<genero>misterio</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>CardCaptor Sakura: La pelicula 2</titulo>
+		<director>Morio Asaka</director>
+		<actores>
+		</actores>
+		<fecha>2000</fecha>
+		<duracion>86</duracion>
+		<generos>
+			<genero>animacion</genero>
+			<genero>fantasia</genero>
+			<genero>romantica</genero>
+			<genero>accion</genero>
+			<genero>misterio</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>La tumba de las luciernagas</titulo>
+		<director>Isao Takahata</director>
+		<actores>
+		</actores>
+		<fecha>1998</fecha>
+		<duracion>89</duracion>
+		<generos>
+			<genero>animacion</genero>
+			<genero>belica</genero>
+			<genero>drama</genero>
+			<genero>suspense</genero>
+		</generos>
+	</pelicula>
+	
+	<pelicula>
+		<titulo>Nueve semanas y media</titulo>
+		<director>Adrian Lyne</director>
+		<actores>
+			<actor>Mickey Rourke</actor>
+			<actor>Kim Basinger</actor>
+			<actor>Margaret Whitton</actor>
+			<actor>David Margulies</actor>
+			<actor>Christine Baranski</actor>
+		</actores>
+		<fecha>1986</fecha>
+		<duracion>117</duracion>
+		<generos>
+			<genero>adulto</genero>
+			<genero>romantica</genero>
+			<genero>drama</genero>
+		</generos>
+	</pelicula>
+</peliculas>
